@@ -25,7 +25,6 @@ public class Main {
         }
         for (int x = 0; x <= 2; x++) {
             System.out.println(slowo[x]);
-            System.out.println("Sortowanie udane2");
         }
     }
 }
